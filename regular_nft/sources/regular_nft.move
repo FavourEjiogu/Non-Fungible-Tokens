@@ -57,7 +57,7 @@ public fun mint_to_sender( // This declares a public function named mint_to_send
         description: string::utf8(description), // This converts the "description" parameter (a vector of bytes) into a "String" type. This becomes the NFT's description.
 
         url: url::new_unsafe_from_bytes(url), // This converts the "url" parameter (a vector of bytes) into a "Url" type. This is a link to the NFT's image.
-        // why is it unsafe_from_bytes?
+        
 
     };
 
