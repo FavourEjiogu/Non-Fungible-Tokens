@@ -72,6 +72,8 @@ Also, a lot of people see those NFTs as an investment opportunity, they can rese
 NFTs markets
 Those are the most knowns marketplaces for NFTs where you can buy and sell NFTs that represent all the things I mentioned above.
 
+some examples are: tradeport, etc
+
 is an nft basically an object but with images?
 Yes, on Sui, an NFT is essentially just an object—but with some fields that typically include image data or a URL to an image.
 
