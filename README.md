@@ -72,6 +72,13 @@ Also, a lot of people see those NFTs as an investment opportunity, they can rese
 NFTs markets
 Those are the most knowns marketplaces for NFTs where you can buy and sell NFTs that represent all the things I mentioned above.
 
+is an nft basically an object but with images?
+Yes, on Sui, an NFT is essentially just an object—but with some fields that typically include image data or a URL to an image.
+
+Key Points:
+Everything on Sui is an object. Every object is unique, non-fungible, and owned. This means every NFT is an object, but not every object is necessarily an NFT.
+NFTs usually have metadata fields like name, description, and url (which often points to an image or other media)
+
 
 On Sui, there are two types of NFTs, which are:
 
