@@ -17,7 +17,7 @@ public struct MyNFT has key, store { // You actually do not need to explicitly a
     description: string::String, // Description field (Stores the description of the NFT)
     
     url: Url, // URL field (Stores a url that represents the NFT visually)
-    // TODO: allow custom attributes
+/*  Additional attributes could also exist for various use cases. For example; An on-chain in-game object like a weapon, or an  on-chain social profile like an ID card. Check the ReadMe for more info */   
 }
 
 // ===== Events ===== (Events are not compulsory in Sui Move smart contracts but it improves the UX(User Experience), check the ReadMe for more info)
