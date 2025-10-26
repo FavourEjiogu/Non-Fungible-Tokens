@@ -81,6 +81,10 @@ Key Points:
 Everything on Sui is an object. Every object is unique, non-fungible, and owned. This means every NFT is an object, but not every object is necessarily an NFT.
 NFTs usually have metadata fields like name, description, and url (which often points to an image or other media)
 
+is there anyway i could differntiate them though?
+
+like i said earlier there really is no unique difference between nfts (like traditional jpeg nfts) from other objects, asides maybe the presence of an image and then the metadata.
+
 
 On Sui, there are two types of NFTs, which are:
 
