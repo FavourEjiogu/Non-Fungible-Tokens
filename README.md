@@ -1,6 +1,6 @@
 cooking! checkback later
 
-
+there currently is no styling yet, i would do that tomorrow!
 
 
  Fungibility is the quality of an asset or good being interchangeable with other individual goods or assets of the same type, where each unit has equal value and can be substituted without a loss of value or utility.
