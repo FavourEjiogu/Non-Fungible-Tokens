@@ -34,7 +34,7 @@ I know why this might sound confusing, but you see, there's more to actually und
 
 Fungibility at its **core** is a **social and contractual property of an asset**. This means that Fungibility is defined by a higher-level protocol and must be accepted by its users. The underlying **technical structure** of how it works doesn't really matter.
 
-So despite the technical uniqueness of each object, objects can achieve fungibility through standardization.
+So now that means, despite the uniqueness of each object on Sui (the technical structure), objects can still achieve fungibility through **standardization**.
 
 Coins are considered fungible by the Sui ecosystem for the following reasons:
 
