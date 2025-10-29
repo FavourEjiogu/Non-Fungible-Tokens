@@ -15,9 +15,9 @@ Fungibility is the quality of an asset being interchangeable with other individu
 **Non-fungible assets:** These are **unique** and cannot be easily swapped for an identical item. For instance, a house, a specific piece of art, or a collectible item has its own unique characteristics and value, so one cannot be replaced by another. 
 
 
-Most newbies tend to confuse fungibility with liquidity but there's a difference between them:
+### Most newbies tend to confuse fungibility with liquidity but there's a difference between them:
 
-Fungibility is about interchangeability, while liquidity is about how quickly an asset can be converted into cash without a significant loss of value. For example, a car is said to be liquid if it can be sold quickly, but it is not fungible because each car has unique features and value. 
+**Fungibility** is about **interchangeability**, while **liquidity** is about **how quickly an asset can be converted into cash without a significant loss of value**. For example, a car is said to be liquid if it can be sold quickly, but it is not fungible because each car has unique features and value. 
 
  
 
