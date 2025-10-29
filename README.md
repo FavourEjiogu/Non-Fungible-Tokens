@@ -8,9 +8,9 @@
 ## Fungibility
 Fungibility is the quality of an asset being interchangeable with other individual assets of the same type, where each unit has equal value and can be substituted without a loss of value or utility.
 
-The concept of fungibility can be understood by comparing fungible and non-fungible assets: 
+### The concept of Fungibility can be understood by comparing Fungible and Non-Fungible assets: 
 
-Fungible assets: These assets can be swapped for one of the same kind without any loss of value. For example, a dollar bill is interchangeable with any other dollar bill, and five one-dollar bills are equal to one five-dollar bill.  
+**Fungible assets:** These assets can be swapped for one of the same kind without any loss of value. For example, a dollar bill is interchangeable with any other dollar bill, and five one-dollar bills are equal to one five-dollar bill.  
 
 Non-fungible assets: These are unique and cannot be easily swapped for an identical item. For instance, a house, a specific piece of art, or a collectible item has its own unique characteristics and value, so one cannot be replaced by another. 
 
