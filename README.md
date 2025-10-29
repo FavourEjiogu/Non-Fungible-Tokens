@@ -47,7 +47,7 @@ So now that means, despite the uniqueness of each object on Sui (the technical s
 
     The globally unique identifier is simply a feature that enables the system to track ownership and transactions, but that doesn't affect the token's value or utility. Just like how every dollar bill has a unique serial number, but that doesn't affect its value or utility.
 
-- **Automatic "coin smashing"**: When you make a transaction, Sui has a feature called "gas smashing" (part of Programmable Transaction Blocks). This automatically merges smaller coin objects into larger ones, effectively abstracting away the existence of individual coin objects with unique IDs from the user's perspective. It reinforces the perception that you hold a balance of a single fungible token, rather than a collection of unique, small objects. 
+- **Automatic "coin smashing"**: When you make a transaction, Sui has a feature called "gas smashing" (part of Programmable Transaction Blocks). This automatically merges smaller coin objects into larger ones, effectively abstracting away the existence of individual coin objects with unique IDs from the user's perspective. It reinforces the perception that you hold a balance of a single fungible token, rather than a collection of unique, small objects.
 
 Analogy: Numbered bank notes vs. digital bank balance
 
