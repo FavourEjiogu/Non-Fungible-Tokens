@@ -86,8 +86,8 @@ Like any other asset, supply and demand drives the price. Due to the scarce natu
 
 Also, a lot of people see NFTs as an investment opportunity, because they can resell the NFT they bought for a higher price.
 
-NFTs markets
-Those are the most knowns marketplaces for NFTs where you can buy and sell NFTs that represent all the things I mentioned above.
+### NFT Marketplace
+This is where you can buy and sell NFTs that represent all the things I mentioned above.
 
 some examples are: tradeport, etc
 
