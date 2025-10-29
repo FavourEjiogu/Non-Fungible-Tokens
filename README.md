@@ -39,7 +39,7 @@ So now that means, despite the uniqueness of each object on Sui (the technical s
 ### Coins are considered fungible by the Sui ecosystem for the following reasons:
 
 
-- **Contractual agreement**: The smart contract that governs the token standard defines what makes a coin "fungible." For Sui's standard `Coin` implementation (`sui::coin_registry`), the contract logic dictates that any unit of the same `Coin<T>` type is interchangeable with any other unit of that same type.
+- **Contractual agreement**: The smart contract that governs the token standard defines what makes a coin "fungible". For Sui's standard `Coin` implementation, `sui::coin_registry`, the contract logic dictates that any unit of the same `Coin<T>` type is **interchangeable** with any other unit of that same type. And if you recall, **Interchangeability** is the **defining characteristic** of **fungibility**.
 
 - **Identical properties**: A coin object's fungibility comes from the fact that its value is its only meaningful property. The smart contract treats all coins of the same type and value identically. For example, a coin object with the value `5` is functionally and economically identical to any other coin object with the value `5` of the same token type. The globally unique identifier is simply metadata for the system to track ownership and transactions; it doesn't affect the token's value or utility.
 
