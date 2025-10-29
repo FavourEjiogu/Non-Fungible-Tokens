@@ -54,9 +54,9 @@ So now that means, despite the uniqueness of each object on Sui (the technical s
 
 Every physical dollar bill has a **unique** serial number. Technically, this makes each bill a unique, non-fungible physical object.
 
-However, the bank, government, and all economic actors agree to treat these physical objects as fungible representations of a dollar. One dollar bill is worth exactly the same as another, regardless of its serial number. You don't get a discount for a brand new bill or a bonus for a rare one.
+However, the bank, government, me, you, and all economic actors **agree** to treat these physical objects as fungible representations of a dollar. One dollar bill is worth exactly the same as another, **regardless** of its serial number. You don't get a discount for a brand new bill or a bonus for a rare one.
 
-Digital abstraction: When you check your bank account online, you just see a single balance. The bank's system likely tracks your money in various internal objects with unique IDs, but that complexity is hidden from you. You don't have to think about which specific dollar is being spent; the system handles the abstraction of fungibility. 
+And when you check your bank account online, you just see a single balance. Whether the bank's system tracks your money in various internal objects with unique IDs or not, that complexity is **hidden** from you. You don't have to think about which specific dollar in circulation is being spent, because the system handles the **abstraction of fungibility**. 
 
 So in conclusion:
 
