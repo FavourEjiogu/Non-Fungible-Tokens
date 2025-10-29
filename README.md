@@ -19,6 +19,8 @@ Fungibility is the quality of an asset being interchangeable with other individu
 
 **Fungibility** is about **interchangeability**, while **liquidity** is about **how quickly an asset can be converted into cash without a significant loss of value**. For example, a car is said to be liquid if it can be sold quickly, but it is not fungible because each car has unique features and value. 
 
+---
+
 ## Everything on Sui is actually an NFT
 This is how Sui differs from other blockchains. 
 
@@ -36,6 +38,8 @@ Fungibility at its **core** is a **social and contractual property of an asset**
 
 So now that means, despite the uniqueness of each object on Sui (the technical structure), objects can still achieve fungibility through **standardization**.
 
+---
+
 ### Coins are considered fungible by the Sui ecosystem for the following reasons:
 
 
@@ -49,6 +53,7 @@ So now that means, despite the uniqueness of each object on Sui (the technical s
 
 - **Automatic "coin smashing"**: When you make a transaction, Sui has a feature called "gas smashing" (part of Programmable Transaction Blocks). This automatically merges smaller coin objects into larger ones, effectively abstracting away the existence of individual coin objects with unique IDs from the user's perspective. It reinforces the perception that you hold a balance of a single fungible token, rather than a collection of unique, small objects.
 
+---
 
 ### So you can always think about it this way:
 
@@ -58,19 +63,22 @@ However, the bank, government, me, you, and all economic actors **agree** to tre
 
 And when you check your bank account online, you just see a single balance. Whether the bank's system tracks your money in various internal objects with unique IDs or not, that complexity is **hidden** from you. You don't have to think about which specific dollar in circulation is being spent, because the system handles the **abstraction of fungibility**. 
 
+---
+
 ### So in conclusion:
 
 The presence of a globally unique identifier ***does*** make each coin object technically unique, but that technical uniqueness is irrelevant from the perspective of the token's economic properties. 
 
 The smart contract and the wider Sui ecosystem treat these technically unique objects as practically fungible. **The critical point once again is that Fungibility is a social and contractual property of an asset**, not just a technical property of its identifier. 
 
-
+---
 
 ### So, what can NFTs be used for?
 NFTs represent a whole range of elements, anything from digital art, digital fashion items, collectible sports cards, virtual real estate, games skins and characters, music albums, ownership licenses and even physical assets, and many more. 
 
 Basically, NFTs can be used for any asset that needs to be **differentiated** from each other in order to prove their value, or scarcity.
 
+---
 
 ### Why NFTs Matter (and How They Change Art & Music)
 
@@ -80,23 +88,28 @@ Basically, NFTs can be used for any asset that needs to be **differentiated** fr
 
 **NFTs help both parties** by providing tamper-proof, transparent digital certificates of ownership **and** origin for both physical and digital items. By using blockchain technology, NFTs create a **permanent and unalterable record** that verifies authenticity, prevents counterfeiting, and tracks the history of an asset from its creation.
 
+---
 
 ### Why are NFTs so expensive?
 Like any other asset, supply and demand drives the price. Due to the scarce nature of NFTs, and the high demand for them, people are often willing to pay a lot of money for them. 
 
 Also, a lot of people see NFTs as an investment opportunity, because they can resell the NFT they bought for a higher price.
 
+---
+
 ### NFT Marketplace
 This is where you can buy and sell NFTs that represent all the things I mentioned above.
 
 On Sui, the most popular NFT marketplace is [Tradeport]().
 
+---
 
 ## Types of NFTs on Sui
 
 ### 1. [Regular NFTs]()
 ### 2. [Soulbound NFTs]()
 
+---
 
 ## 📘 Check Out the Next Guide
 
