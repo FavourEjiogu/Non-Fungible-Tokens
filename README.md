@@ -72,8 +72,9 @@ NFTs represent a whole range of elements, anything from digital art, digital fas
 Basically, NFTs can be used for any asset that needs to be **differentiated** from each other in order to prove their value, or scarcity.
 
 
-What’s special about NFTs and why they can change industries like music or art?
-For the buyers, NFTs provide a secure certificate of ownership over the asset it represent, protecting its value.
+### Why NFTs Matter (and How They Change Art & Music)
+
+**For the buyers**, NFTs provide a secure certificate of ownership over the asset it represents, protecting its value.
 
 For a sellers, NFTs make it not only possible to sell something today, but also to keep earning in the future. Artists in particular have struggled to earn rewards if their work appreciates in value. NFTs can be coded to allow the original creator to collect money each time the token move hands.
 
