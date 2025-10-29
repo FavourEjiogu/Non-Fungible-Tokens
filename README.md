@@ -41,7 +41,11 @@ So now that means, despite the uniqueness of each object on Sui (the technical s
 
 - **Contractual agreement**: The smart contract that governs the token standard defines what makes a coin "fungible". For Sui's standard `Coin` implementation, `sui::coin_registry`, the contract logic dictates that any unit of the same `Coin<T>` type is **interchangeable** with any other unit of that same type. And if you recall, **Interchangeability** is the **defining characteristic** of **fungibility**.
 
-- **Identical properties**: A coin object's fungibility comes from the fact that its value is its only meaningful property. The smart contract treats all coins of the same type and value identically. For example, a coin object with the value `5` is functionally and economically identical to any other coin object with the value `5` of the same token type. The globally unique identifier is simply metadata for the system to track ownership and transactions; it doesn't affect the token's value or utility.
+- **Identical properties**: A coin object's fungibility comes from the fact that its value is its only meaningful property. The smart contract also treats all coins of the same type and value identically. 
+
+    So for example, a coin object with the value `5` is functionally and economically identical to any other coin object with the value `5` of the same token type. Just like how a one-dollar bill is functionally and economically identical to any other one-dollar bill, and five one-dollar bills are equal to one five-dollar bill. 
+
+    The globally unique identifier is simply a feature that enables the system to track ownership and transactions, but that doesn't affect the token's value or utility. Just like how every dollar bill has a unique serial number, but that doesn't affect its value or utility.
 
 - **Automatic "coin smashing"**: When you make a transaction, Sui has a feature called "gas smashing" (part of Programmable Transaction Blocks). This automatically merges smaller coin objects into larger ones, effectively abstracting away the existence of individual coin objects with unique IDs from the user's perspective. It reinforces the perception that you hold a balance of a single fungible token, rather than a collection of unique, small objects. 
 
