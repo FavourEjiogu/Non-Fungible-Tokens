@@ -82,7 +82,7 @@ Basically, NFTs can be used for any asset that needs to be **differentiated** fr
 
 
 ### Why are NFTs so expensive?
-Like any other asset, supply and demand drives the price. Due to the scarce nature of NFTs, and the high demand for them, people are often willing to pay a lot of money for them.
+Like any other asset, supply and demand drives the price. Due to the scarce nature of NFTs, and the high demand for them, people are often willing to pay a lot of money for them. 
 
 Also, a lot of people see those NFTs as an investment opportunity, they can resell the NFT they bought for higher price.
 
