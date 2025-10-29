@@ -49,9 +49,10 @@ So now that means, despite the uniqueness of each object on Sui (the technical s
 
 - **Automatic "coin smashing"**: When you make a transaction, Sui has a feature called "gas smashing" (part of Programmable Transaction Blocks). This automatically merges smaller coin objects into larger ones, effectively abstracting away the existence of individual coin objects with unique IDs from the user's perspective. It reinforces the perception that you hold a balance of a single fungible token, rather than a collection of unique, small objects.
 
-Analogy: Numbered bank notes vs. digital bank balance
 
-Every physical banknote has a unique serial number. Technically, this makes each bill a unique, non-fungible physical object.
+### So you can always think about it this way:
+
+Every physical dollar bill has a **unique** serial number. Technically, this makes each bill a unique, non-fungible physical object.
 
 However, the bank, government, and all economic actors agree to treat these physical objects as fungible representations of a dollar. One dollar bill is worth exactly the same as another, regardless of its serial number. You don't get a discount for a brand new bill or a bonus for a rare one.
 
