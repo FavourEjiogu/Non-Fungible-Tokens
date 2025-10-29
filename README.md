@@ -58,11 +58,11 @@ However, the bank, government, me, you, and all economic actors **agree** to tre
 
 And when you check your bank account online, you just see a single balance. Whether the bank's system tracks your money in various internal objects with unique IDs or not, that complexity is **hidden** from you. You don't have to think about which specific dollar in circulation is being spent, because the system handles the **abstraction of fungibility**. 
 
-So in conclusion:
+### So in conclusion:
 
-The presence of a globally unique identifier *does* make each coin object technically unique, but that technical uniqueness is irrelevant from the perspective of the token's economic properties. 
+The presence of a globally unique identifier ***does*** make each coin object technically unique, but that technical uniqueness is irrelevant from the perspective of the token's economic properties. 
 
-The smart contract and the wider Sui ecosystem treat these technically unique objects as practically fungible. The critical point once again is that fungibility is a social and contractual property of an asset, not just a technical property of its identifier. 
+The smart contract and the wider Sui ecosystem treat these technically unique objects as practically fungible. **The critical point once again is that Fungibility is a social and contractual property of an asset**, not just a technical property of its identifier. 
 
 
 
