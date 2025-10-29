@@ -89,25 +89,54 @@ Also, a lot of people see NFTs as an investment opportunity, because they can re
 ### NFT Marketplace
 This is where you can buy and sell NFTs that represent all the things I mentioned above.
 
-some examples are: tradeport, etc
-
-is an nft basically an object but with images?
-Yes, on Sui, an NFT is essentially just an object—but with some fields that typically include image data or a URL to an image.
-
-Key Points:
-Everything on Sui is an object. Every object is unique, non-fungible, and owned. This means every NFT is an object, but not every object is necessarily an NFT.
-NFTs usually have metadata fields like name, description, and url (which often points to an image or other media)
-
-is there anyway i could differntiate them though?
-
-like i said earlier there really is no unique difference between nfts (like traditional jpeg nfts) from other objects, asides maybe the presence of an image and then the metadata.
+On Sui, the most popular NFT marketplace is [Tradeport]().
 
 
-On Sui, there are two types of NFTs, which are:
+## Types of NFTs on Sui
 
-1. [Regular NFTs]()
-2. [Soulbound NFTs]()
+### 1. [Regular NFTs]()
+### 2. [Soulbound NFTs]()
 
 
-Here are some actions you can perform: #fix this heading sha
-[how to burn an nft](link to it) and reiterate for more of them
+## 📘 Check Out the Next Guide
+
+Continue learning more about Move and Sui smart contracts [in the next guide in this series](https://github.com/FavourEjiogu/Non-Fungible-Tokens) on my GitHub. Stay tuned for more hands-on examples that build directly on top of this one.
+
+---
+
+## 📜 Reference
+
+* [The Official Sui Documentation](https://docs.sui.io)
+
+---
+
+## ❤️ Support the Author
+
+If you found this guide helpful, please follow me for more free Move/Sui content:
+
+🐦 **X (Twitter):** [Mello](https://twitter.com/intent/follow?screen_name=MelloTheTrader_)
+
+⭐ **GitHub:** [Favour Ejiogu](https://github.com/FavourEjiogu)
+
+Leaving a **star** on the repository helps motivate me to write more beginner-friendly tutorials like this. Thank you!
+
+---
+
+## ⚖️ License
+
+This guide is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+That means:
+
+* ✅ You can **share** (copy, redistribute) the material in any medium or format
+* ✅ You can **adapt** (remix, transform, and build upon) it
+* ❌ You **cannot** use it for commercial purposes
+* ⚠️ You **must** give appropriate credit (e.g., “Written by [Favour Ejiogu](https://github.com/FavourEjiogu)”)
+
+For full details, see the [license text here](https://creativecommons.org/licenses/by-nc/4.0/).
+
+---
+
+⭐ **Star this repository if you enjoyed the guide!** ⭐
+
+**Made with ❤️ and lots of ☕ by [Mello](https://twitter.com/intent/follow?screen_name=MelloTheTrader_) for the [Sui Community](https://x.com/SuiCommunity)**
