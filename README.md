@@ -76,12 +76,13 @@ Basically, NFTs can be used for any asset that needs to be **differentiated** fr
 
 **For the buyers**, NFTs provide a secure certificate of ownership over the asset it represents, protecting its value.
 
-For a sellers, NFTs make it not only possible to sell something today, but also to keep earning in the future. Artists in particular have struggled to earn rewards if their work appreciates in value. NFTs can be coded to allow the original creator to collect money each time the token move hands.
+**For the sellers**, NFTs make it not only possible to sell something today, but also to keep earning from it in the future. Artists in particular have struggled to earn rewards if their work appreciates in value. NFTs can be programmed to allow the original creator to collect money each time the token moves hands.
 
-NFTs can return the power and control back into the hands of the artists!
+**NFTs help both parties** by providing tamper-proof, transparent digital certificates of ownership **and** origin for both physical and digital items. By using blockchain technology, NFTs create a **permanent and unalterable record** that verifies authenticity, prevents counterfeiting, and tracks the history of an asset from its creation.
 
-Why NFTs are so expensive?
-Like any asset or coin, supply and demand are driving the price. Due to the scarce nature of NFTs and the high demand for them people are often prepared to pay a lot of money for them.
+
+### Why are NFTs so expensive?
+Like any other asset, supply and demand drives the price. Due to the scarce nature of NFTs, and the high demand for them, people are often willing to pay a lot of money for them.
 
 Also, a lot of people see those NFTs as an investment opportunity, they can resell the NFT they bought for higher price.
 
