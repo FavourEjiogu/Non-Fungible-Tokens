@@ -36,7 +36,7 @@ Fungibility at its **core** is a **social and contractual property of an asset**
 
 So now that means, despite the uniqueness of each object on Sui (the technical structure), objects can still achieve fungibility through **standardization**.
 
-Coins are considered fungible by the Sui ecosystem for the following reasons:
+### Coins are considered fungible by the Sui ecosystem for the following reasons:
 
 
 - **Contractual agreement**: The smart contract that governs the token standard defines what makes a coin "fungible." For Sui's standard `Coin` implementation (`sui::coin_registry`), the contract logic dictates that any unit of the same `Coin<T>` type is interchangeable with any other unit of that same type.
