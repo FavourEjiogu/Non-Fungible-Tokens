@@ -19,13 +19,20 @@ Fungibility is the quality of an asset being interchangeable with other individu
 
 **Fungibility** is about **interchangeability**, while **liquidity** is about **how quickly an asset can be converted into cash without a significant loss of value**. For example, a car is said to be liquid if it can be sold quickly, but it is not fungible because each car has unique features and value. 
 
- 
+## Everything on Sui is actually an NFT
+This is how Sui differs from other blockchains. 
 
- On Sui, everything is an object, and every object has their own globally unique identifier `ID: UID`, and every object has an owner, meaning everything on sui is unique and has an owner. And if you recall, Uniqueness is the defining characteristic of non-fungibility. So from this, we can now deduce that everything on sui is non-fungible. And if everything on Sui is non-fungible then that also means that every fungible token is actually a non-fungible token.
+So because Sui is [object-centric](), **everything** on Sui is an object, and every object has their own globally unique identifier `ID: UID`, and every object has an owner.
 
-But don't be confused Anon(what we call people we don't know in web3)
+This means that everything on Sui is **distinguishable** (therefore unique), and has an owner. And if you recall, **Uniqueness** is the **defining characteristic** of **non-fungibility**. So from this, we can now deduce that **everything on Sui** is **non-fungible**.
 
-Fungibility at its core is a social and contractual property of an asset. Fungibility is defined by a higher-level protocol, not just the underlying technical structure.
+And if everything on Sui is non-fungible, then that also means that **every fungible token is actually a non-fungible token.**
+
+> But then how does this even make sense? Fungiblity is a very crucial feature in finance
+
+I know why this might sound confusing, but you see, there's more to actually understand about Fungibility. <br>Fungibility is **just** a concept.
+
+Fungibility at its **core** is a **social and contractual property of an asset**. This means that Fungibility is defined by a higher-level protocol and must be accepted by its users. The underlying **technical structure** of how it works doesn't really matter.
 
 So despite the technical uniqueness of each object, objects can achieve fungibility through standardization.
 
