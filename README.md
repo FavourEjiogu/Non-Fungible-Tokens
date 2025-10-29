@@ -66,10 +66,10 @@ The smart contract and the wider Sui ecosystem treat these technically unique ob
 
 
 
+### So, what can NFTs be used for?
+NFTs represent a whole range of elements, anything from digital art, digital fashion items, collectible sports cards, virtual real estate, games skins and characters, music albums, ownership licenses and even physical assets, and many more. 
 
-
-What can NFTs be used for?
-NFTs represent a whole range of elements, anything from digital art, digital fashion items, collectible sports cards, virtual real estate, games skins and characters, music albums, ownership license and even physical assets and many more, basically any assets that need to be differentiated from each other in order to prove their value, or scarcity
+Basically, NFTs can be used for any asset that needs to be **differentiated** from each other in order to prove their value, or scarcity.
 
 
 What’s special about NFTs and why they can change industries like music or art?
