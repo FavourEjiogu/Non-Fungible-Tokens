@@ -12,7 +12,7 @@ Fungibility is the quality of an asset being interchangeable with other individu
 
 **Fungible assets:** These assets can be swapped for one of the same kind without any loss of value. For example, a dollar bill is interchangeable with any other dollar bill, and five one-dollar bills are equal to one five-dollar bill.  
 
-Non-fungible assets: These are unique and cannot be easily swapped for an identical item. For instance, a house, a specific piece of art, or a collectible item has its own unique characteristics and value, so one cannot be replaced by another. 
+**Non-fungible assets:** These are **unique** and cannot be easily swapped for an identical item. For instance, a house, a specific piece of art, or a collectible item has its own unique characteristics and value, so one cannot be replaced by another. 
 
 
 Most newbies tend to confuse fungibility with liquidity but there's a difference between them:
