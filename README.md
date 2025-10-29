@@ -1,9 +1,12 @@
-cooking! checkback later
+# Understanding NFTs on Sui
 
-there currently is no styling yet, i would do that tomorrow!
+>This guide introduces you to NFTs on the Sui blockchain. It walks you through how NFTs differ from fungible tokens in Sui’s object-centric model, where every asset is technically unique but can still achieve fungibility through standardization.
+>
+>By the end, you’ll have a clear grasp of how NFTs work on Sui, how they differ from fungible tokens, and how they can represent any unique digital or physical asset with verifiable ownership and provenance.
 
 
- Fungibility is the quality of an asset or good being interchangeable with other individual goods or assets of the same type, where each unit has equal value and can be substituted without a loss of value or utility.
+## Fungibility
+Fungibility is the quality of an asset being interchangeable with other individual assets of the same type, where each unit has equal value and can be substituted without a loss of value or utility.
 
 The concept of fungibility can be understood by comparing fungible and non-fungible assets: 
 
